@@ -1,21 +1,20 @@
 # Uncode
 
-Laboratorio de Solucoes para e-commerce. IA aplicada, velocidade de implantacao e excelencia em todas as frentes.
+Laboratorio de Solucoes para e-commerce.
 
 ## O que fazemos
 
-- Temas customizados para Nuvemshop (e expandindo para outras plataformas)
-- Pipeline de visual QA automatizado com IA
-- Automacoes e ferramentas internas com IA
-- Consultoria de e-commerce orientada a resultado
+- **IA aplicada** a processos e produtos de e-commerce
+- **Temas customizados** para plataformas de e-commerce
+- **Automacoes internas** com inteligencia artificial
+- **Consultoria orientada a resultado** — vendas, branding e market share
 
-## Repositorios Principais
+## Nossa Missao
 
-| Repo | Descricao |
-|------|-----------|
-| [onboarding-devs](https://github.com/uncodelabs/onboarding-devs) | Guias e onboarding para novos devs |
-| [coding-analyzer](https://github.com/uncodelabs/coding-analyzer) | Pipeline de visual QA (Playwright + Pixelmatch + LLM) |
+Entregamos diferencial. Nosso objetivo e entrar de verdade no negocio do cliente, com velocidade de implantacao e
+excelencia em todas as frentes.
 
 ## Contato
 
-Quer trabalhar com a gente? Fale conosco pelo [site](https://uncode.com.br) ou abra uma issue.
+Quer trabalhar com a gente? Fale conosco pelo
+[site](https://uncode.com.br) ou abra uma issue.
