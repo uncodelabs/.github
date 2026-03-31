@@ -1,20 +1,21 @@
-# Uncode
+# Uncode®
 
-Laboratorio de Solucoes para e-commerce.
+**Consultoria digital para marcas ambiciosas.**
+
+Conectamos estratégia, tecnologia e dados para acelerar o crescimento digital.
+Da operação ao resultado, construímos e-commerces e produtos preparados para escalar.
 
 ## O que fazemos
 
-- **IA aplicada** a processos e produtos de e-commerce
-- **Temas customizados** para plataformas de e-commerce
-- **Automacoes internas** com inteligencia artificial
-- **Consultoria orientada a resultado** — vendas, branding e market share
+- **Implantação e evolução de e-commerce** — Nuvemshop, VTEX, Olist/VNDA
+- **Produtos digitais e SaaS** — apps, automações e integrações sob medida
+- **IA & Analytics** — dados e inteligência aplicados ao negócio
+- **Consultoria orientada a resultado** — vendas, conversão e market share
 
-## Nossa Missao
+## Stack
 
-Entregamos diferencial. Nosso objetivo e entrar de verdade no negocio do cliente, com velocidade de implantacao e
-excelencia em todas as frentes.
+Nuvemshop · VTEX IO · Olist/VNDA · Next.js · React · Supabase · Vercel
 
-## Contato
+## Links
 
-Quer trabalhar com a gente? Fale conosco pelo
-[site](https://uncode.com.br) ou abra uma issue.
+[Site](https://uncode.global) · [Cases](https://uncode.global/cases-de-sucesso) · [Blog](https://uncode.global/journal-uncode) · [Contato](https://uncode.global/contato-uncode)
