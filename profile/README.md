@@ -1,20 +1,34 @@
-# Uncode
+```
+██╗   ██╗███╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗
+██║   ██║████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝
+██║   ██║██╔██╗ ██║██║     ██║   ██║██║  ██║█████╗
+██║   ██║██║╚██╗██║██║     ██║   ██║██║  ██║██╔══╝
+╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝██████╔╝███████╗
+ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+                                               ®
+```
 
-Laboratorio de Solucoes para e-commerce.
+> _Não somos apenas consultoria — somos estratégia._
 
-## O que fazemos
+Conectamos tecnologia, dados e resultado para marcas que querem escalar de verdade.
 
-- **IA aplicada** a processos e produtos de e-commerce
-- **Temas customizados** para plataformas de e-commerce
-- **Automacoes internas** com inteligencia artificial
-- **Consultoria orientada a resultado** — vendas, branding e market share
+---
 
-## Nossa Missao
+### O que fazemos
 
-Entregamos diferencial. Nosso objetivo e entrar de verdade no negocio do cliente, com velocidade de implantacao e
-excelencia em todas as frentes.
+```
+◈  E-commerce       Nuvemshop · VTEX IO · Olist/VNDA
+◈  Produtos digitais  SaaS · Apps · Automações
+◈  IA & Analytics   Dados aplicados ao negócio
+◈  Consultoria      Vendas · Conversão · Market share
+```
 
-## Contato
+### Stack
 
-Quer trabalhar com a gente? Fale conosco pelo
-[site](https://uncode.com.br) ou abra uma issue.
+```
+Next.js · React · TypeScript · Supabase · Vercel · Tailwind
+```
+
+---
+
+[Site](https://uncode.global) · [Cases](https://uncode.global/cases-de-sucesso) · [Blog](https://uncode.global/journal-uncode) · [Contato](https://uncode.global/contato-uncode)
