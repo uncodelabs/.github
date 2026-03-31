@@ -1,31 +1,40 @@
-## Summary
+## Resumo
 
-<!-- Descreva o que foi feito e por que (1-3 bullet points) -->
+<!-- O que foi feito e por quê (1-3 bullets) -->
 
 -
 
-## Type
+## Tipo de mudança
 
-<!-- Marque o tipo da mudanca -->
+- [ ] feat — nova funcionalidade
+- [ ] fix — correção de bug
+- [ ] refactor — sem mudança de comportamento
+- [ ] chore — dependências, config, CI
+- [ ] docs — documentação
 
-- [ ] feat (nova funcionalidade)
-- [ ] fix (correcao de bug)
-- [ ] refactor (refatoracao sem mudanca de comportamento)
-- [ ] docs (documentacao)
-- [ ] chore (dependencias, config, CI)
+## Deploy
 
-## Test plan
+- [ ] Nuvemshop — FTP / CDN
+- [ ] VTEX — `vtex link` / deploy
+- [ ] Vercel — preview automático
+- [ ] VNDA — painel
+- [ ] Não requer deploy
 
-<!-- Como testar essa mudanca? -->
+## Como testar
 
-- [ ]
+<!-- Passos para validar a mudança -->
+
+1.
 
 ## Screenshots
 
-<!-- Se aplicavel, adicione prints antes/depois -->
+<!-- Obrigatório para mudanças visuais — antes/depois -->
 
 ## Checklist
 
-- [ ] Codigo segue os padroes do projeto
-- [ ] Testei localmente
-- [ ] Links internos funcionam (se documentacao)
+- [ ] Testei localmente / no ambiente de preview
+- [ ] Sem `console.log`, `debugger` ou código comentado esquecido
+- [ ] Sem credenciais, tokens ou dados sensíveis
+- [ ] Mudanças visuais têm screenshot acima
+
+<!-- O CodeRabbit vai revisar esse PR automaticamente — aguarde os comentários antes do merge -->
